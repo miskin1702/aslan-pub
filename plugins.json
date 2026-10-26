@@ -124,10 +124,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=sprboxs.bar&sz=%size%",
-        "fileHash": "sha256-9702fdecaff5a41bc91ed6662b868c857149f112cf29baca3389bad07aa463f7",
+        "fileHash": "sha256-676c089bf8cad1d56f45fdbbd5d222d4c85cfb9d5ad971569875ba680ff06fa8",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
-        "fileSize": 26560,
+        "fileSize": 29618,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -136,11 +136,33 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "InatBox",
         "description": "\u0130nat Box Canl\u0131 TV ve Spor Kanallar\u0131",
         "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/InatBox.cs3",
         "name": "InatBox"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizilabmedia.click&sz=%size%",
+        "fileHash": "sha256-3c1521995b6055daa3ce44a325cedee0825e08f6f2705f66eaf76897c75adfb3",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+        "fileSize": 34972,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Aslan"
+        ],
+        "tvTypes": [
+            "Live",
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "InatTV",
+        "description": "\u0130nat TV \u2014 Canl\u0131 Spor, Ulusal TV, Dizi ve Film Platformu",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/InatTV.cs3",
+        "name": "InatTV"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=jetfilmizle.net&sz=%size%",

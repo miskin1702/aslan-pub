@@ -103,10 +103,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.pw&sz=%size%",
-        "fileHash": "sha256-afe29bb67539a16561fb86f3c0e37dcf77555f7e20600f16a6a78c7ee7d680b5",
+        "fileHash": "sha256-cb5284c9b72db434327f5328bda1a1b18dc65ecc8cf37195651f0da6a0b64cbf",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
-        "fileSize": 40882,
+        "fileSize": 43187,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -116,7 +116,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "Hdfilmcehennemi",
         "description": "Hdfilmcehennemi CloudStream eklentisi",
         "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/Hdfilmcehennemi.cs3",

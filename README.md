@@ -11,5 +11,5 @@ CloudStream 3 icin optimize edilmis Turkce film, dizi, canli TV ve spor yayin sa
    ```
 4. Eklenti listesinden Aslan secip dilediginiz eklentileri yukleyin.
 
-## Eklenti Listesi (14 Eklenti)
+## Eklenti Listesi (15 Eklenti)
 CanliTV, DiziMag, Dizipal, FilmMakinesi, FullHDFilmizlesene, Hdfilmcehennemi, InatBox, JetFilmizle, NetTV Gold, RecTV, SezonlukDizi, SporPaketi, WebteIzle, YabanciDizi.

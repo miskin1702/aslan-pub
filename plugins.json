@@ -124,10 +124,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=sprboxs.bar&sz=%size%",
-        "fileHash": "sha256-4b4a5b3ecfd53847459a4f95c5b61b0c78cfc2354937d424ab833fb9fac00d9c",
+        "fileHash": "sha256-9702fdecaff5a41bc91ed6662b868c857149f112cf29baca3389bad07aa463f7",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
-        "fileSize": 26566,
+        "fileSize": 26560,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -165,10 +165,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/icons/nettv.png",
-        "fileHash": "sha256-51a8c5f2b9c65ed65ef8e7a1cf4a232afba8c440950d729e065da803cbd6edff",
+        "fileHash": "sha256-ac9c8143b85ddccca675c8cb0b21a2f44932c433055e5e7a4ae9bc78ef952a03",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
-        "fileSize": 22088,
+        "fileSize": 22128,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -226,10 +226,10 @@
     },
     {
         "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/TurkSpor@main/assets/logo.png",
-        "fileHash": "sha256-1ff4d5445f84ca51455098d6167adbfd7f458103732f6578662c99b170c4367d",
+        "fileHash": "sha256-f57089ef2a454d4438e663c75de41b5cc8bac3cdd4e7049698b45d8a0744f42b",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
-        "fileSize": 30103,
+        "fileSize": 30293,
         "status": 1,
         "language": "tr",
         "authors": [

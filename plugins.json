@@ -123,33 +123,11 @@
         "name": "Hdfilmcehennemi"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=sprboxs.bar&sz=%size%",
-        "fileHash": "sha256-ef1cccbce7f6799cfabf2100919c3a04ad293b24a50e9bc61147e3e0a2f5d301",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
-        "fileSize": 39610,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Aslan"
-        ],
-        "tvTypes": [
-            "Live",
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 6,
-        "internalName": "InatBox",
-        "description": "\u0130nat Box \u2014 Canl\u0131 Spor, Exxen, BluTV, Disney+, Netflix, GA\u0130N, Tabii ve Sinema Filmleri",
-        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/InatBox.cs3",
-        "name": "InatBox"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilabmedia.click&sz=%size%",
-        "fileHash": "sha256-92965c2947fd5bd6a6fb698a7b2997d14abfc13bd2fbd25ab504aa9ac3d4a3f5",
+        "fileHash": "sha256-a961aac51fd4ecc0534e70ff18f71bb35292933494168f76a61defa38fe578f3",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
-        "fileSize": 39488,
+        "fileSize": 44975,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -160,11 +138,11 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 2,
-        "internalName": "InatTV",
-        "description": "\u0130nat TV \u2014 Canl\u0131 Spor, Exxen, BluTV, Disney+, Netflix, GA\u0130N, Tabii ve Sinema",
-        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/InatTV.cs3",
-        "name": "InatTV"
+        "version": 7,
+        "internalName": "InatTVBox",
+        "description": "\u0130nat TV Box \u2014 Canl\u0131 Spor, Exxen, BluTV, Disney+, Netflix, GA\u0130N, Tabii ve Sinema",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/InatTVBox.cs3",
+        "name": "InatTVBox"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=jetfilmizle.net&sz=%size%",

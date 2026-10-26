@@ -1,0 +1,101 @@
+{
+  "hdfilmcehennemi": {
+    "name": "Hdfilmcehennemi",
+    "url": "https://www.hdfilmcehennemi2.biz",
+    "latencyMs": 439,
+    "verifiedAt": "2026-10-26T02:26:12.268Z",
+    "mirrorCount": 9,
+    "status": "ONLINE",
+    "workingCount": 3
+  },
+  "fullhdfilmizlesene": {
+    "name": "FullHDFilmizlesene",
+    "url": "https://www.fullhdfilmizlesene.now",
+    "latencyMs": 771,
+    "verifiedAt": "2026-10-26T02:26:13.567Z",
+    "mirrorCount": 6,
+    "status": "ONLINE",
+    "workingCount": 2
+  },
+  "filmmakinesi": {
+    "name": "FilmMakinesi",
+    "url": "https://filmmakinesi.co",
+    "latencyMs": 904,
+    "verifiedAt": "2026-10-26T02:26:15.220Z",
+    "mirrorCount": 7,
+    "status": "ONLINE",
+    "workingCount": 1
+  },
+  "dizipal": {
+    "name": "Dizipal",
+    "url": "https://dizibal.org",
+    "latencyMs": 497,
+    "verifiedAt": "2026-10-26T02:26:57.034Z",
+    "mirrorCount": 11,
+    "status": "ONLINE",
+    "workingCount": 1
+  },
+  "webteizle": {
+    "name": "WebteIzle",
+    "url": "https://webteizle.info",
+    "latencyMs": 280,
+    "verifiedAt": "2026-10-26T12:00:00.000Z",
+    "mirrorCount": 8,
+    "status": "ONLINE",
+    "workingCount": 1
+  },
+  "jetfilmizle": {
+    "name": "JetFilmizle",
+    "url": "https://jetfilmizle.app",
+    "latencyMs": 435,
+    "verifiedAt": "2026-10-26T02:27:45.652Z",
+    "mirrorCount": 7,
+    "status": "ONLINE",
+    "workingCount": 4
+  },
+  "sezonlukdizi": {
+    "name": "SezonlukDizi",
+    "url": "https://sezonlukdizi.cc",
+    "latencyMs": 467,
+    "verifiedAt": "2026-10-26T02:27:57.006Z",
+    "mirrorCount": 6,
+    "status": "ONLINE",
+    "workingCount": 2
+  },
+  "yabancidizi": {
+    "name": "YabanciDizi",
+    "url": "https://yabanci-dizi.now",
+    "latencyMs": 805,
+    "verifiedAt": "2026-10-26T02:27:57.834Z",
+    "mirrorCount": 5,
+    "status": "ONLINE",
+    "workingCount": 1
+  },
+  "rectv": {
+    "name": "RecTV",
+    "url": "https://server-hi-speed-iran.info",
+    "latencyMs": 708,
+    "verifiedAt": "2026-10-26T02:28:05.937Z",
+    "mirrorCount": 4,
+    "status": "ONLINE",
+    "workingCount": 2
+  },
+  "inat": {
+    "name": "InatTV",
+    "url": "https://dizilabmedia.click",
+    "latencyMs": 350,
+    "verifiedAt": "2026-10-26T02:28:06.453Z",
+    "mirrorCount": 3,
+    "status": "ONLINE",
+    "workingCount": 3
+  },
+  "dizimag": {
+    "name": "DiziMag",
+    "url": "https://ddizimag.com",
+    "latencyMs": 320,
+    "verifiedAt": "2026-10-26T11:00:00.000Z",
+    "mirrorCount": 3,
+    "status": "ONLINE",
+    "workingCount": 1
+  }
+}

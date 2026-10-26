@@ -1,0 +1,2714 @@
+{
+  "updatedAt": "2026-10-26T15:18:09.303Z",
+  "version": "2.1.0",
+  "totalChannels": 39,
+  "activeChannels": 38,
+  "channels": {
+    "bein-sports-1": {
+      "id": "bein-sports-1",
+      "name": "beIN SPORTS 1 HD",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_1.png",
+      "streams": [
+        {
+          "url": "http://204.52.191.82:80/play/live.php?mac=00:1A:79:B6:EB:0B&stream=868667&extension=ts&play_token=fcEfaVfW41",
+          "headers": {
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 80,
+          "score": 98,
+          "quality": "1080p",
+          "feedSource": "Spor20x High-Perf Edge",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "http://204.52.191.82:80/play/live.php?mac=00:1A:79:B6:EB:0B&stream=868658&extension=ts&play_token=DBlMYqUUrq",
+          "headers": {
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 110,
+          "score": 95,
+          "quality": "4K",
+          "feedSource": "Spor20x 4K Edge",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "http://204.52.191.82:80/play/live.php?mac=00:1A:79:B6:EB:0B&stream=401288&extension=ts&play_token=K7n9dVZzFC",
+          "headers": {
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 130,
+          "score": 90,
+          "quality": "720p",
+          "feedSource": "Spor20x HD Edge",
+          "isVerifiedLive": true
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "〔 ASLAN SPOR 〕",
+          "title": "[★ EN İYİ PERFORMANS] beIN SPORTS 1 HD (Spor20x FHD)",
+          "url": "http://204.52.191.82:80/play/live.php?mac=00:1A:79:B6:EB:0B&stream=868667&extension=ts&play_token=fcEfaVfW41",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 80,
+          "sourceInfo": "Spor20x High-Perf Edge"
+        },
+        {
+          "name": "〔 ASLAN SPOR 〕",
+          "title": "[KAYNAK 2] beIN SPORTS 1 HD (Spor20x 4K)",
+          "url": "http://204.52.191.82:80/play/live.php?mac=00:1A:79:B6:EB:0B&stream=868658&extension=ts&play_token=DBlMYqUUrq",
+          "quality": "4K",
+          "isLive": true,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 110,
+          "sourceInfo": "Spor20x 4K Edge"
+        }
+      ]
+    },
+    "bein-sports-2": {
+      "id": "bein-sports-2",
+      "name": "beIN SPORTS 2 HD",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_2.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports2/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://ladyboy.ardatvgs.cfd//bein2/tracks-v1a1/mono.m3u8",
+          "headers": {
+            "Referer": "https://www.atomsportv519.top",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "AtomSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinb2.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "beIN SPORTS 2 HD",
+          "title": "beIN SPORTS 2 HD (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports2/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "beIN SPORTS 2 HD",
+          "title": "beIN SPORTS 2 HD - AtomSports Live HLS (1080p)",
+          "url": "https://ladyboy.ardatvgs.cfd//bein2/tracks-v1a1/mono.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "Referer": "https://www.atomsportv519.top",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "AtomSports Live HLS"
+        },
+        {
+          "name": "beIN SPORTS 2 HD",
+          "title": "beIN SPORTS 2 HD - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinb2.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "bein-sports-3": {
+      "id": "bein-sports-3",
+      "name": "beIN SPORTS 3 HD",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_3.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports3/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://ladyboy.ardatvgs.cfd//bein3/tracks-v1a1/mono.m3u8",
+          "headers": {
+            "Referer": "https://www.atomsportv519.top",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "AtomSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinb3.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "beIN SPORTS 3 HD",
+          "title": "beIN SPORTS 3 HD (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports3/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "beIN SPORTS 3 HD",
+          "title": "beIN SPORTS 3 HD - AtomSports Live HLS (1080p)",
+          "url": "https://ladyboy.ardatvgs.cfd//bein3/tracks-v1a1/mono.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "Referer": "https://www.atomsportv519.top",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "AtomSports Live HLS"
+        },
+        {
+          "name": "beIN SPORTS 3 HD",
+          "title": "beIN SPORTS 3 HD - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinb3.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "bein-sports-4": {
+      "id": "bein-sports-4",
+      "name": "beIN SPORTS 4 HD",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_4.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports4/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://ladyboy.ardatvgs.cfd//bein4/tracks-v1a1/mono.m3u8",
+          "headers": {
+            "Referer": "https://www.atomsportv519.top",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "AtomSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinb4.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "beIN SPORTS 4 HD",
+          "title": "beIN SPORTS 4 HD (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports4/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "beIN SPORTS 4 HD",
+          "title": "beIN SPORTS 4 HD - AtomSports Live HLS (1080p)",
+          "url": "https://ladyboy.ardatvgs.cfd//bein4/tracks-v1a1/mono.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "Referer": "https://www.atomsportv519.top",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "AtomSports Live HLS"
+        },
+        {
+          "name": "beIN SPORTS 4 HD",
+          "title": "beIN SPORTS 4 HD - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinb4.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "bein-sports-5": {
+      "id": "bein-sports-5",
+      "name": "beIN SPORTS 5 HD",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_5.png",
+      "streams": [
+        {
+          "url": "https://ladyboy.ardatvgs.cfd//bein5/tracks-v1a1/mono.m3u8",
+          "headers": {
+            "Referer": "https://www.atomsportv519.top",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+          },
+          "latencyMs": 683,
+          "score": 72.68,
+          "quality": "1080p",
+          "feedSource": "AtomSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports5/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 1015,
+          "score": 59.4,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinb5.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "beIN SPORTS 5 HD",
+          "title": "beIN SPORTS 5 HD (1080p)",
+          "url": "https://ladyboy.ardatvgs.cfd//bein5/tracks-v1a1/mono.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.atomsportv519.top",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+          },
+          "latencyMs": 683,
+          "sourceInfo": "AtomSports Live HLS"
+        },
+        {
+          "name": "beIN SPORTS 5 HD",
+          "title": "beIN SPORTS 5 HD - SelcukSports Live HLS (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports5/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 1015,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "beIN SPORTS 5 HD",
+          "title": "beIN SPORTS 5 HD - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinb5.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "bein-sports-max-1": {
+      "id": "bein-sports-max-1",
+      "name": "beIN SPORTS MAX 1",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_max_1.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsportsmax1/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 2607,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinbm1.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "beIN SPORTS MAX 1",
+          "title": "beIN SPORTS MAX 1 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsportsmax1/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 2607,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "beIN SPORTS MAX 1",
+          "title": "beIN SPORTS MAX 1 - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinbm1.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "bein-sports-max-2": {
+      "id": "bein-sports-max-2",
+      "name": "beIN SPORTS MAX 2",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_max_2.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsportsmax2/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 2584,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinbm2.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "beIN SPORTS MAX 2",
+          "title": "beIN SPORTS MAX 2 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsportsmax2/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 2584,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "beIN SPORTS MAX 2",
+          "title": "beIN SPORTS MAX 2 - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinbm2.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "bein-sports-haber": {
+      "id": "bein-sports-haber",
+      "name": "beIN SPORTS HABER",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_haber.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsportshaber/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 2620,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "http://wowza.beinsports.com.tr/live/bshaber/playlist.m3u8",
+          "headers": {},
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "MoonCrown Live Turkish",
+          "feedRepo": "https://github.com/mooncrown04/nuvio",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "beIN SPORTS HABER",
+          "title": "beIN SPORTS HABER (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsportshaber/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 2620,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "beIN SPORTS HABER",
+          "title": "beIN SPORTS HABER - MoonCrown Live Turkish (1080p)",
+          "url": "http://wowza.beinsports.com.tr/live/bshaber/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 950,
+          "sourceInfo": "MoonCrown Live Turkish"
+        }
+      ]
+    },
+    "s-sport-1": {
+      "id": "s-sport-1",
+      "name": "S SPORT 1 HD",
+      "category": "S Sport",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mavi_1.png",
+      "streams": [
+        {
+          "url": "https://ladyboy.ardatvgs.cfd//s-sport/tracks-v1a1/mono.m3u8",
+          "headers": {
+            "Referer": "https://www.atomsportv519.top",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "AtomSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinss.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "Selçuk Edge Live",
+          "feedRepo": "local",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "S SPORT 1 HD",
+          "title": "S SPORT 1 HD (1080p)",
+          "url": "https://ladyboy.ardatvgs.cfd//s-sport/tracks-v1a1/mono.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.atomsportv519.top",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "AtomSports Live HLS"
+        },
+        {
+          "name": "S SPORT 1 HD",
+          "title": "S SPORT 1 HD - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinss.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        },
+        {
+          "name": "S SPORT 1 HD",
+          "title": "S SPORT 1 HD - Selçuk Edge Live (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "Selçuk Edge Live"
+        }
+      ]
+    },
+    "s-sport-2": {
+      "id": "s-sport-2",
+      "name": "S SPORT 2 HD",
+      "category": "S Sport",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mavi_2.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport2/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://ladyboy.ardatvgs.cfd//s-sport2/tracks-v1a1/mono.m3u8",
+          "headers": {
+            "Referer": "https://www.atomsportv519.top",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "AtomSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinss2.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "S SPORT 2 HD",
+          "title": "S SPORT 2 HD (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport2/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "S SPORT 2 HD",
+          "title": "S SPORT 2 HD - AtomSports Live HLS (1080p)",
+          "url": "https://ladyboy.ardatvgs.cfd//s-sport2/tracks-v1a1/mono.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "Referer": "https://www.atomsportv519.top",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "AtomSports Live HLS"
+        },
+        {
+          "name": "S SPORT 2 HD",
+          "title": "S SPORT 2 HD - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinss2.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "s-sport-plus": {
+      "id": "s-sport-plus",
+      "name": "S SPORT PLUS",
+      "category": "S Sport",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mavi_plus_1.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 352,
+          "score": 85.92,
+          "quality": "1080p",
+          "feedSource": "Selçuk Edge Live",
+          "feedRepo": "local",
+          "isVerifiedLive": true
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "S SPORT PLUS",
+          "title": "S SPORT PLUS (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 352,
+          "sourceInfo": "Selçuk Edge Live"
+        }
+      ]
+    },
+    "tivibu-spor-1": {
+      "id": "tivibu-spor-1",
+      "name": "TİVİBU SPOR 1",
+      "category": "Tivibu Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/turuncu_1.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor1/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayint1.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "TİVİBU SPOR 1",
+          "title": "TİVİBU SPOR 1 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor1/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "TİVİBU SPOR 1",
+          "title": "TİVİBU SPOR 1 - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayint1.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "tivibu-spor-2": {
+      "id": "tivibu-spor-2",
+      "name": "TİVİBU SPOR 2",
+      "category": "Tivibu Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/turuncu_2.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor2/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 483,
+          "score": 80.68,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayint2.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "TİVİBU SPOR 2",
+          "title": "TİVİBU SPOR 2 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor2/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 483,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "TİVİBU SPOR 2",
+          "title": "TİVİBU SPOR 2 - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayint2.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "tivibu-spor-3": {
+      "id": "tivibu-spor-3",
+      "name": "TİVİBU SPOR 3",
+      "category": "Tivibu Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/turuncu_3.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor3/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 383,
+          "score": 84.68,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayint3.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "TİVİBU SPOR 3",
+          "title": "TİVİBU SPOR 3 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor3/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 383,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "TİVİBU SPOR 3",
+          "title": "TİVİBU SPOR 3 - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayint3.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "tivibu-spor-4": {
+      "id": "tivibu-spor-4",
+      "name": "TİVİBU SPOR 4",
+      "category": "Tivibu Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/turuncu_4.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor4/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 344,
+          "score": 86.24,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayint4.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "TİVİBU SPOR 4",
+          "title": "TİVİBU SPOR 4 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor4/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 344,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "TİVİBU SPOR 4",
+          "title": "TİVİBU SPOR 4 - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayint4.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "spor-smart-1": {
+      "id": "spor-smart-1",
+      "name": "SPOR SMART 1",
+      "category": "Spor Smart",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yildiz_smart_1.png",
+      "streams": [
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinsmarts.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuksmartspor/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "Selçuk Edge Live",
+          "feedRepo": "local",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "SPOR SMART 1",
+          "title": "SPOR SMART 1 (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinsmarts.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": true,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        },
+        {
+          "name": "SPOR SMART 1",
+          "title": "SPOR SMART 1 - Selçuk Edge Live (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuksmartspor/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "Selçuk Edge Live"
+        }
+      ]
+    },
+    "spor-smart-2": {
+      "id": "spor-smart-2",
+      "name": "SPOR SMART 2",
+      "category": "Spor Smart",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yildiz_smart_2.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuksmartspor2/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinsms2.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "SPOR SMART 2",
+          "title": "SPOR SMART 2 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuksmartspor2/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "SPOR SMART 2",
+          "title": "SPOR SMART 2 - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinsms2.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "exxen-spor-1": {
+      "id": "exxen-spor-1",
+      "name": "EXXEN SPOR 1",
+      "category": "Exxen Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/sari_1.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "Selçuk Edge Live",
+          "feedRepo": "local",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "EXXEN SPOR 1",
+          "title": "EXXEN SPOR 1 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "Selçuk Edge Live"
+        }
+      ]
+    },
+    "exxen-spor-2": {
+      "id": "exxen-spor-2",
+      "name": "EXXEN SPOR 2",
+      "category": "Exxen Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/sari_2.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "Selçuk Edge Live",
+          "feedRepo": "local",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "EXXEN SPOR 2",
+          "title": "EXXEN SPOR 2 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "Selçuk Edge Live"
+        }
+      ]
+    },
+    "exxen-spor-3": {
+      "id": "exxen-spor-3",
+      "name": "EXXEN SPOR 3",
+      "category": "Exxen Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/sari_3.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "Selçuk Edge Live",
+          "feedRepo": "local",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "EXXEN SPOR 3",
+          "title": "EXXEN SPOR 3 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "Selçuk Edge Live"
+        }
+      ]
+    },
+    "exxen-spor-4": {
+      "id": "exxen-spor-4",
+      "name": "EXXEN SPOR 4",
+      "category": "Exxen Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/sari_4.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 200,
+          "score": 92,
+          "quality": "1080p",
+          "feedSource": "Selçuk Edge Live",
+          "feedRepo": "local",
+          "isVerifiedLive": true
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "EXXEN SPOR 4",
+          "title": "EXXEN SPOR 4 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 200,
+          "sourceInfo": "Selçuk Edge Live"
+        }
+      ]
+    },
+    "exxen-spor-5": {
+      "id": "exxen-spor-5",
+      "name": "EXXEN SPOR 5",
+      "category": "Exxen Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/sari_5.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 192,
+          "score": 92.32,
+          "quality": "1080p",
+          "feedSource": "Selçuk Edge Live",
+          "feedRepo": "local",
+          "isVerifiedLive": true
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "EXXEN SPOR 5",
+          "title": "EXXEN SPOR 5 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 192,
+          "sourceInfo": "Selçuk Edge Live"
+        }
+      ]
+    },
+    "exxen-spor-6": {
+      "id": "exxen-spor-6",
+      "name": "EXXEN SPOR 6",
+      "category": "Exxen Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/sari_6.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 180,
+          "score": 92.8,
+          "quality": "1080p",
+          "feedSource": "Selçuk Edge Live",
+          "feedRepo": "local",
+          "isVerifiedLive": true
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "EXXEN SPOR 6",
+          "title": "EXXEN SPOR 6 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 180,
+          "sourceInfo": "Selçuk Edge Live"
+        }
+      ]
+    },
+    "tabii-spor": {
+      "id": "tabii-spor",
+      "name": "TABİİ SPOR",
+      "category": "Tabii Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yesil.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor1/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 278,
+          "score": 88.88,
+          "quality": "1080p",
+          "feedSource": "Selçuk Edge Live",
+          "feedRepo": "local",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://kL9mR2vXw7nQ5pY1sH4tJ3gB6.medya.trt.com.tr/master.m3u8",
+          "headers": {},
+          "latencyMs": 1107,
+          "score": 55.72,
+          "quality": "1080p",
+          "feedSource": "Tabii Spor Official Master HLS",
+          "feedRepo": "TRT Medya CDN",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinex7.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "TABİİ SPOR",
+          "title": "TABİİ SPOR (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor1/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 278,
+          "sourceInfo": "Selçuk Edge Live"
+        },
+        {
+          "name": "TABİİ SPOR",
+          "title": "TABİİ SPOR - Tabii Spor Official Master HLS (1080p)",
+          "url": "https://kL9mR2vXw7nQ5pY1sH4tJ3gB6.medya.trt.com.tr/master.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 1107,
+          "sourceInfo": "Tabii Spor Official Master HLS"
+        },
+        {
+          "name": "TABİİ SPOR",
+          "title": "TABİİ SPOR - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinex7.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "tabii-spor-1": {
+      "id": "tabii-spor-1",
+      "name": "TABİİ SPOR 1",
+      "category": "Tabii Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yesil_1.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor2/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 1479,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://Pz4qT7nW1mR9sH2vL5xK8jG3y.medya.trt.com.tr/master.m3u8",
+          "headers": {},
+          "latencyMs": 2713,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "Tabii Spor Official Master HLS",
+          "feedRepo": "TRT Medya CDN",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinex1.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "TABİİ SPOR 1",
+          "title": "TABİİ SPOR 1 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor2/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 1479,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "TABİİ SPOR 1",
+          "title": "TABİİ SPOR 1 - Tabii Spor Official Master HLS (1080p)",
+          "url": "https://Pz4qT7nW1mR9sH2vL5xK8jG3y.medya.trt.com.tr/master.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 2713,
+          "sourceInfo": "Tabii Spor Official Master HLS"
+        },
+        {
+          "name": "TABİİ SPOR 1",
+          "title": "TABİİ SPOR 1 - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinex1.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "tabii-spor-2": {
+      "id": "tabii-spor-2",
+      "name": "TABİİ SPOR 2",
+      "category": "Tabii Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yesil_2.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor3/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://mR8bV4kL1nQ7sH9tW2xP5zJ6g.medya.trt.com.tr/master.m3u8",
+          "headers": {},
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "Tabii Spor Official Master HLS",
+          "feedRepo": "TRT Medya CDN",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinex2.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "TABİİ SPOR 2",
+          "title": "TABİİ SPOR 2 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor3/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "TABİİ SPOR 2",
+          "title": "TABİİ SPOR 2 - Tabii Spor Official Master HLS (1080p)",
+          "url": "https://mR8bV4kL1nQ7sH9tW2xP5zJ6g.medya.trt.com.tr/master.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 950,
+          "sourceInfo": "Tabii Spor Official Master HLS"
+        },
+        {
+          "name": "TABİİ SPOR 2",
+          "title": "TABİİ SPOR 2 - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinex2.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "tabii-spor-3": {
+      "id": "tabii-spor-3",
+      "name": "TABİİ SPOR 3",
+      "category": "Tabii Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yesil_3.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor4/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://mR4vL7nQ2sH9tW5xP1zK3gJ8b.medya.trt.com.tr/master.m3u8",
+          "headers": {},
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "Tabii Spor Official Master HLS",
+          "feedRepo": "TRT Medya CDN",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinex3.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "TABİİ SPOR 3",
+          "title": "TABİİ SPOR 3 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor4/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "TABİİ SPOR 3",
+          "title": "TABİİ SPOR 3 - Tabii Spor Official Master HLS (1080p)",
+          "url": "https://mR4vL7nQ2sH9tW5xP1zK3gJ8b.medya.trt.com.tr/master.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 950,
+          "sourceInfo": "Tabii Spor Official Master HLS"
+        },
+        {
+          "name": "TABİİ SPOR 3",
+          "title": "TABİİ SPOR 3 - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinex3.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "tabii-spor-4": {
+      "id": "tabii-spor-4",
+      "name": "TABİİ SPOR 4",
+      "category": "Tabii Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yesil_4.png",
+      "streams": [
+        {
+          "url": "https://sH7tQ2nW5mR1vL9xP4zK3gJ8k.medya.trt.com.tr/master.m3u8",
+          "headers": {},
+          "latencyMs": 1158,
+          "score": 53.68,
+          "quality": "1080p",
+          "feedSource": "Tabii Spor Official Master HLS",
+          "feedRepo": "TRT Medya CDN",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor5/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinex4.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "TABİİ SPOR 4",
+          "title": "TABİİ SPOR 4 (1080p)",
+          "url": "https://sH7tQ2nW5mR1vL9xP4zK3gJ8k.medya.trt.com.tr/master.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {},
+          "latencyMs": 1158,
+          "sourceInfo": "Tabii Spor Official Master HLS"
+        },
+        {
+          "name": "TABİİ SPOR 4",
+          "title": "TABİİ SPOR 4 - SelcukSports Live HLS (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor5/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "TABİİ SPOR 4",
+          "title": "TABİİ SPOR 4 - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinex4.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "tabii-spor-5": {
+      "id": "tabii-spor-5",
+      "name": "TABİİ SPOR 5",
+      "category": "Tabii Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yesil_5.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor6/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 3690,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://vL2nQ8sH4tW1mR7xP5zK9gJ3y.medya.trt.com.tr/master.m3u8",
+          "headers": {},
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "Tabii Spor Official Master HLS",
+          "feedRepo": "TRT Medya CDN",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinex5.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "TABİİ SPOR 5",
+          "title": "TABİİ SPOR 5 (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor6/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 3690,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "TABİİ SPOR 5",
+          "title": "TABİİ SPOR 5 - Tabii Spor Official Master HLS (1080p)",
+          "url": "https://vL2nQ8sH4tW1mR7xP5zK9gJ3y.medya.trt.com.tr/master.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 950,
+          "sourceInfo": "Tabii Spor Official Master HLS"
+        },
+        {
+          "name": "TABİİ SPOR 5",
+          "title": "TABİİ SPOR 5 - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinex5.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "tabii-spor-6": {
+      "id": "tabii-spor-6",
+      "name": "TABİİ SPOR 6",
+      "category": "Tabii Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yesil_6.png",
+      "streams": [
+        {
+          "url": "https://nW5mR1vL9xP4zK2sH7tQ3gJ6b.medya.trt.com.tr/master.m3u8",
+          "headers": {},
+          "latencyMs": 1373,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "Tabii Spor Official Master HLS",
+          "feedRepo": "TRT Medya CDN",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor7/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 3766,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinex6.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "TABİİ SPOR 6",
+          "title": "TABİİ SPOR 6 (1080p)",
+          "url": "https://nW5mR1vL9xP4zK2sH7tQ3gJ6b.medya.trt.com.tr/master.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {},
+          "latencyMs": 1373,
+          "sourceInfo": "Tabii Spor Official Master HLS"
+        },
+        {
+          "name": "TABİİ SPOR 6",
+          "title": "TABİİ SPOR 6 - SelcukSports Live HLS (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor7/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 3766,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "TABİİ SPOR 6",
+          "title": "TABİİ SPOR 6 - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayinex6.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "trt-spor": {
+      "id": "trt-spor",
+      "name": "TRT SPOR HD",
+      "category": "Ulusal",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/ulusal_trt_spor.png",
+      "streams": [
+        {
+          "url": "https://ladyboy.ardatvgs.cfd//trt-spor/tracks-v1a1/mono.m3u8",
+          "headers": {
+            "Referer": "https://www.atomsportv519.top",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+          },
+          "latencyMs": 1502,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "AtomSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 2002,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8#all",
+          "headers": {},
+          "latencyMs": 2434,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "YosemiteSam6 Turkish Live IPTV",
+          "feedRepo": "https://github.com/YosemiteSam6/turkiye-iptv-m3u-m3u8",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+          "headers": {},
+          "latencyMs": 2453,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "Tabii Spor Official Master HLS",
+          "feedRepo": "TRT Medya CDN",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor2/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 3415,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "TRT SPOR HD",
+          "title": "TRT SPOR HD (1080p)",
+          "url": "https://ladyboy.ardatvgs.cfd//trt-spor/tracks-v1a1/mono.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.atomsportv519.top",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+          },
+          "latencyMs": 1502,
+          "sourceInfo": "AtomSports Live HLS"
+        },
+        {
+          "name": "TRT SPOR HD",
+          "title": "TRT SPOR HD - SelcukSports Live HLS (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 2002,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "TRT SPOR HD",
+          "title": "TRT SPOR HD - YosemiteSam6 Turkish Live IPTV (1080p)",
+          "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8#all",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 2434,
+          "sourceInfo": "YosemiteSam6 Turkish Live IPTV"
+        },
+        {
+          "name": "TRT SPOR HD",
+          "title": "TRT SPOR HD - Tabii Spor Official Master HLS (1080p)",
+          "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 2453,
+          "sourceInfo": "Tabii Spor Official Master HLS"
+        },
+        {
+          "name": "TRT SPOR HD",
+          "title": "TRT SPOR HD - SelcukSports Live HLS (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor2/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 3415,
+          "sourceInfo": "SelcukSports Live HLS"
+        }
+      ]
+    },
+    "trt-spor-yildiz": {
+      "id": "trt-spor-yildiz",
+      "name": "TRT SPOR YILDIZ HD",
+      "category": "Ulusal",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/ulusal_trt_yildiz.png",
+      "streams": [
+        {
+          "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+          "headers": {},
+          "latencyMs": 2401,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "Tabii Spor Official Master HLS",
+          "feedRepo": "TRT Medya CDN",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8#all",
+          "headers": {},
+          "latencyMs": 2402,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "YosemiteSam6 Turkish Live IPTV",
+          "feedRepo": "https://github.com/YosemiteSam6/turkiye-iptv-m3u-m3u8",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor2/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "Selçuk Edge Live",
+          "feedRepo": "local",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "TRT SPOR YILDIZ HD",
+          "title": "TRT SPOR YILDIZ HD (1080p)",
+          "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {},
+          "latencyMs": 2401,
+          "sourceInfo": "Tabii Spor Official Master HLS"
+        },
+        {
+          "name": "TRT SPOR YILDIZ HD",
+          "title": "TRT SPOR YILDIZ HD - YosemiteSam6 Turkish Live IPTV (1080p)",
+          "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8#all",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 2402,
+          "sourceInfo": "YosemiteSam6 Turkish Live IPTV"
+        },
+        {
+          "name": "TRT SPOR YILDIZ HD",
+          "title": "TRT SPOR YILDIZ HD - Selçuk Edge Live (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor2/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "Selçuk Edge Live"
+        }
+      ]
+    },
+    "a-spor": {
+      "id": "a-spor",
+      "name": "A SPOR HD",
+      "category": "Ulusal",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/ulusal_aspor.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukaspor/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 1787,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+          "headers": {},
+          "latencyMs": 3114,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "YosemiteSam6 Turkish Live IPTV",
+          "feedRepo": "https://github.com/YosemiteSam6/turkiye-iptv-m3u-m3u8",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8#all",
+          "headers": {},
+          "latencyMs": 3364,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "YosemiteSam6 Turkish Live IPTV",
+          "feedRepo": "https://github.com/YosemiteSam6/turkiye-iptv-m3u-m3u8",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8",
+          "headers": {},
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "720p",
+          "feedSource": "TurkNet CDN 720p",
+          "feedRepo": "local",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "A SPOR HD",
+          "title": "A SPOR HD (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukaspor/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 1787,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "A SPOR HD",
+          "title": "A SPOR HD - YosemiteSam6 Turkish Live IPTV (1080p)",
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 3114,
+          "sourceInfo": "YosemiteSam6 Turkish Live IPTV"
+        },
+        {
+          "name": "A SPOR HD",
+          "title": "A SPOR HD - YosemiteSam6 Turkish Live IPTV (1080p)",
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8#all",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 3364,
+          "sourceInfo": "YosemiteSam6 Turkish Live IPTV"
+        },
+        {
+          "name": "A SPOR HD",
+          "title": "A SPOR HD - TurkNet CDN 720p (720p)",
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8",
+          "quality": "720p",
+          "isLive": false,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 950,
+          "sourceInfo": "TurkNet CDN 720p"
+        }
+      ]
+    },
+    "tv8-5": {
+      "id": "tv8-5",
+      "name": "TV8.5 HD",
+      "category": "Ulusal",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/ulusal_tv85.png",
+      "streams": [
+        {
+          "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3",
+          "headers": {},
+          "latencyMs": 2973,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "YosemiteSam6 Turkish Live IPTV",
+          "feedRepo": "https://github.com/YosemiteSam6/turkiye-iptv-m3u-m3u8",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3#all",
+          "headers": {},
+          "latencyMs": 3020,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "YosemiteSam6 Turkish Live IPTV",
+          "feedRepo": "https://github.com/YosemiteSam6/turkiye-iptv-m3u-m3u8",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web",
+          "headers": {},
+          "latencyMs": 3454,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "Daion CDN Master",
+          "feedRepo": "local",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://tv8bu-live.ercdn.net/tv8bu/tv8bu.m3u8",
+          "headers": {},
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "ERC CDN",
+          "feedRepo": "local",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "TV8.5 HD",
+          "title": "TV8.5 HD (1080p)",
+          "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {},
+          "latencyMs": 2973,
+          "sourceInfo": "YosemiteSam6 Turkish Live IPTV"
+        },
+        {
+          "name": "TV8.5 HD",
+          "title": "TV8.5 HD - YosemiteSam6 Turkish Live IPTV (1080p)",
+          "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3#all",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 3020,
+          "sourceInfo": "YosemiteSam6 Turkish Live IPTV"
+        },
+        {
+          "name": "TV8.5 HD",
+          "title": "TV8.5 HD - Daion CDN Master (1080p)",
+          "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 3454,
+          "sourceInfo": "Daion CDN Master"
+        },
+        {
+          "name": "TV8.5 HD",
+          "title": "TV8.5 HD - ERC CDN (1080p)",
+          "url": "https://tv8bu-live.ercdn.net/tv8bu/tv8bu.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 950,
+          "sourceInfo": "ERC CDN"
+        }
+      ]
+    },
+    "ht-spor": {
+      "id": "ht-spor",
+      "name": "HT SPOR HD",
+      "category": "Ulusal",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/ulusal_htspor.png",
+      "streams": [
+        {
+          "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web#haber",
+          "headers": {},
+          "latencyMs": 2972,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "YosemiteSam6 Turkish Live IPTV",
+          "feedRepo": "https://github.com/YosemiteSam6/turkiye-iptv-m3u-m3u8",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web#all",
+          "headers": {},
+          "latencyMs": 2973,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "YosemiteSam6 Turkish Live IPTV",
+          "feedRepo": "https://github.com/YosemiteSam6/turkiye-iptv-m3u-m3u8",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
+          "headers": {},
+          "latencyMs": 2977,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "YosemiteSam6 Turkish Live IPTV",
+          "feedRepo": "https://github.com/YosemiteSam6/turkiye-iptv-m3u-m3u8",
+          "isVerifiedLive": true
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "HT SPOR HD",
+          "title": "HT SPOR HD (1080p)",
+          "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web#haber",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {},
+          "latencyMs": 2972,
+          "sourceInfo": "YosemiteSam6 Turkish Live IPTV"
+        },
+        {
+          "name": "HT SPOR HD",
+          "title": "HT SPOR HD - YosemiteSam6 Turkish Live IPTV (1080p)",
+          "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web#all",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 2973,
+          "sourceInfo": "YosemiteSam6 Turkish Live IPTV"
+        },
+        {
+          "name": "HT SPOR HD",
+          "title": "HT SPOR HD - YosemiteSam6 Turkish Live IPTV (1080p)",
+          "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 2977,
+          "sourceInfo": "YosemiteSam6 Turkish Live IPTV"
+        }
+      ]
+    },
+    "eurosport-1": {
+      "id": "eurosport-1",
+      "name": "EUROSPORT 1 TR",
+      "category": "Kulüp & Diğer",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yildiz_euro_1.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukeurosport1/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "EUROSPORT 1 TR",
+          "title": "EUROSPORT 1 TR (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukeurosport1/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "SelcukSports Live HLS"
+        }
+      ]
+    },
+    "eurosport-2": {
+      "id": "eurosport-2",
+      "name": "EUROSPORT 2 TR",
+      "category": "Kulüp & Diğer",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yildiz_euro_2.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukeurosport2/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://d0.4928d54d950ee70q4.lat/yayineu2.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "score": 25,
+          "quality": "1080p",
+          "feedSource": "M3Link Sports (Primary)",
+          "feedRepo": "https://github.com/tecobaba/m3link",
+          "isVerifiedLive": false
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "EUROSPORT 2 TR",
+          "title": "EUROSPORT 2 TR (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukeurosport2/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "EUROSPORT 2 TR",
+          "title": "EUROSPORT 2 TR - M3Link Sports (Primary) (1080p)",
+          "url": "https://d0.4928d54d950ee70q4.lat/yayineu2.m3u8",
+          "quality": "1080p",
+          "isLive": false,
+          "primary": false,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+            "Referer": "https://trgoals1332.xyz//"
+          },
+          "latencyMs": 950,
+          "sourceInfo": "M3Link Sports (Primary)"
+        }
+      ]
+    },
+    "fb-tv": {
+      "id": "fb-tv",
+      "name": "FENERBAHÇE TV",
+      "category": "Kulüp & Diğer",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/ulusal_fbtv.png",
+      "streams": [
+        {
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8",
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 2569,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "SelcukSports Live HLS",
+          "feedRepo": "https://github.com/bscandua/D-zzserisi",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8#all",
+          "headers": {},
+          "latencyMs": 3077,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "YosemiteSam6 Turkish Live IPTV",
+          "feedRepo": "https://github.com/YosemiteSam6/turkiye-iptv-m3u-m3u8",
+          "isVerifiedLive": true
+        },
+        {
+          "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+          "headers": {},
+          "latencyMs": 3079,
+          "score": 50,
+          "quality": "1080p",
+          "feedSource": "YosemiteSam6 Turkish Live IPTV",
+          "feedRepo": "https://github.com/YosemiteSam6/turkiye-iptv-m3u-m3u8",
+          "isVerifiedLive": true
+        }
+      ],
+      "formattedStreams": [
+        {
+          "name": "FENERBAHÇE TV",
+          "title": "FENERBAHÇE TV (1080p)",
+          "url": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": true,
+          "headers": {
+            "Referer": "https://www.selcuksportshd1846.xyz/",
+            "User-Agent": "Mozilla/5.0"
+          },
+          "latencyMs": 2569,
+          "sourceInfo": "SelcukSports Live HLS"
+        },
+        {
+          "name": "FENERBAHÇE TV",
+          "title": "FENERBAHÇE TV - YosemiteSam6 Turkish Live IPTV (1080p)",
+          "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8#all",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 3077,
+          "sourceInfo": "YosemiteSam6 Turkish Live IPTV"
+        },
+        {
+          "name": "FENERBAHÇE TV",
+          "title": "FENERBAHÇE TV - YosemiteSam6 Turkish Live IPTV (1080p)",
+          "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 3079,
+          "sourceInfo": "YosemiteSam6 Turkish Live IPTV"
+        }
+      ]
+    },
+    "gs-tv": {
+      "id": "gs-tv",
+      "name": "GALATASARAY TV",
+      "category": "Kulüp & Diğer",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/ulusal_gstv.png",
+      "streams": [],
+      "formattedStreams": []
+    }
+  }
+}

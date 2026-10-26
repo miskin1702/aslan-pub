@@ -1,0 +1,288 @@
+[
+    {
+        "iconUrl": "https://picon.pics/TR/Ulusal/Trt1.png",
+        "fileHash": "sha256-f0480758f47c474475afdb8e802f9fdff3c74ece1a5dbf03f2704212235e2c02",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+        "fileSize": 19279,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Aslan"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "CanliTV",
+        "description": "T\u00fcrkiye canl\u0131 televizyon kanallar\u0131 (Ulusal, Haber, Spor, Sinema)",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/CanliTV.cs3",
+        "name": "CanliTV"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ddizimag.com&sz=%size%",
+        "fileHash": "sha256-baa9422ecf2b197d3b15adc63ea6c3346a10230c640145ed415c28300b0cdd21",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+        "fileSize": 20215,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Aslan"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "DiziMag",
+        "description": "DiziMag \u2014 T\u00fcrk\u00e7e Dublaj ve Altyaz\u0131l\u0131 Yabanc\u0131 Dizi ve Film Platformu",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/DiziMag.cs3",
+        "name": "DiziMag"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal3008.com&sz=%size%",
+        "fileHash": "sha256-c79e3043886f8ff02e540570c252518bbac52e905b967ca8bf98b81ba55e706e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+        "fileSize": 34000,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Aslan"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Dizipal",
+        "description": "DiziPal \u2014 T\u00fcrk\u00e7e Altyaz\u0131l\u0131 ve Dublajl\u0131 Yabanc\u0131 Dizi \u0130zleme Platformu",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/Dizipal.cs3",
+        "name": "Dizipal"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.co&sz=%size%",
+        "fileHash": "sha256-dd14882a07832e2764df6ba6c0d3115f3aa210ff9b7364cfd453645e2fa890da",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+        "fileSize": 32552,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Aslan"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "FilmMakinesi",
+        "description": "Donmadan 1080p ve 4K film izleme ar\u015fivi. VIP Player ve HLS ak\u0131\u015flar\u0131.",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/FilmMakinesi.cs3",
+        "name": "FilmMakinesi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlesene.com&sz=%size%",
+        "fileHash": "sha256-2879e9bd90d2a95ff02d5d47078f5ceb5cb2484a71ad7cda3b3fa12bc459634b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+        "fileSize": 33558,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Aslan"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "FullHDFilmizlesene",
+        "description": "FullHDFilmizlesene CloudStream eklentisi",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/FullHDFilmizlesene.cs3",
+        "name": "FullHDFilmizlesene"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.pw&sz=%size%",
+        "fileHash": "sha256-afe29bb67539a16561fb86f3c0e37dcf77555f7e20600f16a6a78c7ee7d680b5",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+        "fileSize": 40882,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Aslan"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Hdfilmcehennemi",
+        "description": "Hdfilmcehennemi CloudStream eklentisi",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/Hdfilmcehennemi.cs3",
+        "name": "Hdfilmcehennemi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sprboxs.bar&sz=%size%",
+        "fileHash": "sha256-4b4a5b3ecfd53847459a4f95c5b61b0c78cfc2354937d424ab833fb9fac00d9c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+        "fileSize": 26566,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Aslan"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 4,
+        "internalName": "InatBox",
+        "description": "\u0130nat Box Canl\u0131 TV ve Spor Kanallar\u0131",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/InatBox.cs3",
+        "name": "InatBox"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jetfilmizle.net&sz=%size%",
+        "fileHash": "sha256-0d0b261422133890146acdb9181acbce49cb9813814e6b5d100d9abb1a13eb2a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+        "fileSize": 47878,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Aslan"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "JetFilmizle",
+        "description": "JetFilmizle - T\u00fcrk\u00e7e Dublaj ve Altyaz\u0131l\u0131 HD Film \u0130zleme Platformu",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/JetFilmizle.cs3",
+        "name": "JetFilmizle"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/icons/nettv.png",
+        "fileHash": "sha256-51a8c5f2b9c65ed65ef8e7a1cf4a232afba8c440950d729e065da803cbd6edff",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+        "fileSize": 22088,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Aslan"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 4,
+        "internalName": "NetTV",
+        "description": "NetTV Gold - 600+ canl\u0131 kanal: spor, sinema, dizi ve belgesel",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/NetTV.cs3",
+        "name": "NetTV"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=a.prectv70.lol&sz=%size%",
+        "fileHash": "sha256-8ade748d91273272bc15e6827ccbd4705f86aaf939dcdbfe20f3cd2f521ddbf9",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+        "fileSize": 44574,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Aslan"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "RecTV",
+        "description": "RecTV - Pop\u00fcler Filmler ve Diziler",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/RecTV.cs3",
+        "name": "RecTV"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=%size%",
+        "fileHash": "sha256-fece1be4ff3996e0c151b62448f46f96727bc2d3e948e8acf638096b6dd8145e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+        "fileSize": 40505,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Aslan"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "SezonlukDizi",
+        "description": "SezonlukDizi - Yabanc\u0131 Dizi \u0130zle. 1080p T\u00fcrk\u00e7e Dublaj ve Altyaz\u0131l\u0131 dizi ar\u015fivi.",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/SezonlukDizi.cs3",
+        "name": "SezonlukDizi"
+    },
+    {
+        "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/TurkSpor@main/assets/logo.png",
+        "fileHash": "sha256-1ff4d5445f84ca51455098d6167adbfd7f458103732f6578662c99b170c4367d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+        "fileSize": 30103,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Aslan"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 5,
+        "internalName": "SporPaketi",
+        "description": "T\u00fcrkiye Canl\u0131 Spor Paketi (S\u00fcper Lig, beIN SPORTS, S Sport, Tivibu, Spor Smart, Exxen, Tabii, Ulusal & Kul\u00fcp Kanallar\u0131)",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/SporPaketi.cs3",
+        "name": "SporPaketi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle.info&sz=%size%",
+        "fileHash": "sha256-e33d83f5090254b723cdc4b492bc697590d4dce3a7a11bf5d45564208fca7ad2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+        "fileSize": 41524,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Aslan"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "WebteIzle",
+        "description": "Webte\u0130zle - T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 geni\u015f film ve dizi ar\u015fivi, VidMoly ve Sibnet deste\u011fi",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/WebteIzle.cs3",
+        "name": "WebteIzle"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yabanci-dizi.now&sz=%size%",
+        "fileHash": "sha256-ba84b1d7f27e9f81cf27858105c42a12665fdfa69961fa9cc94a501325d72ce6",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+        "fileSize": 34754,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Aslan"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "YabanciDizi",
+        "description": "Yabanc\u0131 Dizi - En yeni yabanc\u0131 diziler T\u00fcrk\u00e7e dublaj ve altyaz\u0131 se\u00e7enekleriyle",
+        "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/YabanciDizi.cs3",
+        "name": "YabanciDizi"
+    }
+]

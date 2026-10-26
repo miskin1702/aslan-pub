@@ -1,0 +1,137 @@
+{
+  "version": "1.0.0",
+  "name": "Aslan Provider Domain Candidates Dictionary",
+  "description": "Known mirrors, fallback domains, and seed endpoints for all Aslan streaming providers.",
+  "providers": {
+    "hdfilmcehennemi": {
+      "name": "Hdfilmcehennemi",
+      "type": "web",
+      "testPath": "/",
+      "searchMarker": "hdfilmcehennemi",
+      "mirrors": [
+        "https://www.hdfilmcehennemi.life",
+        "https://www.hdfilmcehennemi.biz",
+        "https://www.hdfilmcehennemi.nl",
+        "https://www.hdfilmcehennemi.top",
+        "https://hdfilmcehennemi.net",
+        "https://www.hdfilmcehennemi.pw"
+      ]
+    },
+    "fullhdfilmizlesene": {
+      "name": "FullHDFilmizlesene",
+      "type": "web",
+      "testPath": "/",
+      "searchMarker": "fullhdfilmizlesene",
+      "mirrors": [
+        "https://www.fullhdfilmizlesene.live",
+        "https://www.fullhdfilmizlesene.now",
+        "https://www.fullhdfilmizlesene.pw",
+        "https://www.fullhdfilmizlesene.de",
+        "https://www.fullhdfilmizlesene.net",
+        "https://www.fullhdfilmizlesene.com"
+      ]
+    },
+    "filmmakinesi": {
+      "name": "FilmMakinesi",
+      "type": "web",
+      "testPath": "/",
+      "searchMarker": "filmmakinesi",
+      "mirrors": [
+        "https://filmmakinesi.ch",
+        "https://filmmakinesi.net",
+        "https://filmmakinesi.org",
+        "https://filmmakinesi.to",
+        "https://filmmakinesi.vip"
+      ]
+    },
+    "dizipal": {
+      "name": "Dizipal",
+      "type": "web",
+      "testPath": "/",
+      "searchMarker": "dizipal",
+      "mirrors": [
+        "https://dizipal824.com",
+        "https://dizibal.org",
+        "https://dizipal3008.com",
+        "https://dizipal2216.com",
+        "https://dizipal720.com",
+        "https://dizipal1063.com",
+        "https://dizipal.is"
+      ]
+    },
+    "jetfilmizle": {
+      "name": "JetFilmizle",
+      "type": "web",
+      "testPath": "/",
+      "searchMarker": "jetfilmizle",
+      "mirrors": [
+        "https://jetfilmizle.net",
+        "https://jetfilmizle.app",
+        "https://jetfilmizle.mobi",
+        "https://jetfilmizle.now",
+        "https://jetfilmizle.vip"
+      ]
+    },
+    "sezonlukdizi": {
+      "name": "SezonlukDizi",
+      "type": "web",
+      "testPath": "/",
+      "searchMarker": "sezonlukdizi",
+      "mirrors": [
+        "https://sezonlukdizi8.com",
+        "https://sezonlukdizi.cc",
+        "https://sezonlukdizi.pro",
+        "https://sezonlukdizi.org",
+        "https://sezonlukdizi.vip"
+      ]
+    },
+    "webteizle": {
+      "name": "WebteIzle",
+      "type": "web",
+      "testPath": "/",
+      "searchMarker": "webteizle",
+      "mirrors": [
+        "https://webteizle.info",
+        "https://webteizle3.xyz",
+        "https://webteizle.co",
+        "https://webteizle.net",
+        "https://webteizle.org",
+        "https://webteizle.xyz"
+      ]
+    },
+    "yabancidizi": {
+      "name": "YabanciDizi",
+      "type": "web",
+      "testPath": "/",
+      "searchMarker": "yabancidizi",
+      "mirrors": [
+        "https://yabancidizi.co",
+        "https://yabancidizi.news",
+        "https://yabancidizi.pw",
+        "https://yabanci-dizi.now",
+        "https://yabancidizi.tv"
+      ]
+    },
+    "rec": {
+      "name": "RecTV API",
+      "type": "api",
+      "testPath": "/api/attest/nonce",
+      "mirrors": [
+        "https://server-hi-speed-iran.info",
+        "https://hostinnegar.com",
+        "https://a.prectv70.lol",
+        "https://windowsdiba.info"
+      ]
+    },
+    "inat": {
+      "name": "İnat Box API",
+      "type": "api",
+      "testPath": "/CDN/001/SPR/v2/spor_v3.php",
+      "mirrors": [
+        "https://sprboxs.bar",
+        "https://dizilabmedia.click",
+        "https://inattv257.cfd"
+      ]
+    }
+  }
+}

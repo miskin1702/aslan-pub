@@ -1,0 +1,8 @@
+{
+  "name": "Aslan - Türkçe Yayın Eklentileri",
+  "description": "Türkçe film, dizi, canlı TV ve spor yayın sağlayıcıları. CloudStream 3 için optimize edilmiş yerli eklenti deposu.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/plugins.json"
+  ]
+}

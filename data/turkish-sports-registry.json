@@ -1,0 +1,552 @@
+{
+  "version": "2.0.0",
+  "name": "Turkish Sports Channels Registry",
+  "description": "Canonical registry of Turkish sports channels for Project Aslan. Strict zero-bloat sports filter with HD banners.",
+  "channels": [
+    {
+      "id": "bein-sports-1",
+      "name": "beIN SPORTS 1 HD",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_1.png",
+      "aliases": [
+        "bein[\\s_-]*spor(t|ts)?[\\s_-]*1",
+        "beinsports1",
+        "beinspor1",
+        "beinsport1",
+        "mor[\\s_-]*spor[\\s_-]*1",
+        "bein_spor(t|ts)?_1",
+        "b1",
+        "bs1",
+        "patron"
+      ],
+      "defaultStreams": [
+        "https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS1TR"
+      ]
+    },
+    {
+      "id": "bein-sports-2",
+      "name": "beIN SPORTS 2 HD",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_2.png",
+      "aliases": [
+        "bein[\\s_-]*spor(t|ts)?[\\s_-]*2",
+        "beinsports2",
+        "beinspor2",
+        "beinsport2",
+        "mor[\\s_-]*spor[\\s_-]*2",
+        "bein_spor(t|ts)?_2",
+        "b2",
+        "bs2"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "bein-sports-3",
+      "name": "beIN SPORTS 3 HD",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_3.png",
+      "aliases": [
+        "bein[\\s_-]*spor(t|ts)?[\\s_-]*3",
+        "beinsports3",
+        "beinspor3",
+        "beinsport3",
+        "mor[\\s_-]*spor[\\s_-]*3",
+        "bein_spor(t|ts)?_3",
+        "b3",
+        "bs3"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "bein-sports-4",
+      "name": "beIN SPORTS 4 HD",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_4.png",
+      "aliases": [
+        "bein[\\s_-]*spor(t|ts)?[\\s_-]*4",
+        "beinsports4",
+        "beinspor4",
+        "beinsport4",
+        "mor[\\s_-]*spor[\\s_-]*4",
+        "bein_spor(t|ts)?_4",
+        "b4",
+        "bs4"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "bein-sports-5",
+      "name": "beIN SPORTS 5 HD",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_5.png",
+      "aliases": [
+        "bein[\\s_-]*spor(t|ts)?[\\s_-]*5",
+        "beinsports5",
+        "beinspor5",
+        "beinsport5",
+        "mor[\\s_-]*spor[\\s_-]*5",
+        "bein_spor(t|ts)?_5",
+        "b5",
+        "bs5"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "bein-sports-max-1",
+      "name": "beIN SPORTS MAX 1",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_max_1.png",
+      "aliases": [
+        "bein[\\s_-]*spor(t|ts)?[\\s_-]*max[\\s_-]*1",
+        "bein[\\s_-]*spor(t|ts)?[\\s_-]*max(?![\\s_-]*2)",
+        "beinsportsmax1",
+        "mor[\\s_-]*max[\\s_-]*1",
+        "bein_spor(t|ts)?_max_1",
+        "bm1"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "bein-sports-max-2",
+      "name": "beIN SPORTS MAX 2",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_max_2.png",
+      "aliases": [
+        "bein[\\s_-]*spor(t|ts)?[\\s_-]*max[\\s_-]*2",
+        "beinsportsmax2",
+        "mor[\\s_-]*max[\\s_-]*2",
+        "bein_spor(t|ts)?_max_2",
+        "bm2"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "bein-sports-haber",
+      "name": "beIN SPORTS HABER",
+      "category": "beIN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mor_haber.png",
+      "aliases": [
+        "bein[\\s_-]*spor(t|ts)?[\\s_-]*haber",
+        "bein[\\s_-]*haber",
+        "beinsportshaber",
+        "mor[\\s_-]*spor[\\s_-]*haber",
+        "bein_spor(t|ts)?_haber"
+      ],
+      "defaultStreams": [
+        "http://wowza.beinsports.com.tr/live/bshaber/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "s-sport-1",
+      "name": "S SPORT 1 HD",
+      "category": "S Sport",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mavi_1.png",
+      "aliases": [
+        "s[\\s_-]*spor(t|ts)?[\\s_-]*1",
+        "s[\\s_-]*spor(t|ts)?(?!.*(2|plus|\\+))",
+        "ss1",
+        "ssport1"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "s-sport-2",
+      "name": "S SPORT 2 HD",
+      "category": "S Sport",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mavi_2.png",
+      "aliases": [
+        "s[\\s_-]*spor(t|ts)?[\\s_-]*2",
+        "ss2",
+        "ssport2"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "s-sport-plus",
+      "name": "S SPORT PLUS",
+      "category": "S Sport",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/mavi_plus_1.png",
+      "aliases": [
+        "s[\\s_-]*spor(t|ts)?[\\s_-]*plus",
+        "s[\\s_-]*spor(t|ts)?[\\s_-]*\\+",
+        "ssportplus",
+        "s_sport_plus",
+        "mavi[\\s_-]*plus",
+        "s[\\s_-]*spor(t|ts)?[\\s_-]*plus",
+        "s_sport_plus",
+        "s[\\s_-]*plus"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tivibu-spor-1",
+      "name": "TİVİBU SPOR 1",
+      "category": "Tivibu Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/turuncu_1.png",
+      "aliases": [
+        "tivibu[\\s_-]*spor(t|ts)?[\\s_-]*1",
+        "^tivibu[\\s_-]*spor(t|ts)?([\\s_-]*hd)?$",
+        "tivibuspor1",
+        "tivibu_spor_1",
+        "turuncu[\\s_-]*spor[\\s_-]*1"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tivibu-spor-2",
+      "name": "TİVİBU SPOR 2",
+      "category": "Tivibu Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/turuncu_2.png",
+      "aliases": [
+        "tivibu[\\s_-]*spor(t|ts)?[\\s_-]*2",
+        "tivibuspor2",
+        "tivibu_spor_2",
+        "turuncu[\\s_-]*spor[\\s_-]*2"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tivibu-spor-3",
+      "name": "TİVİBU SPOR 3",
+      "category": "Tivibu Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/turuncu_3.png",
+      "aliases": [
+        "tivibu[\\s_-]*spor(t|ts)?[\\s_-]*3",
+        "tivibuspor3",
+        "tivibu_spor_3",
+        "turuncu[\\s_-]*spor[\\s_-]*3"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tivibu-spor-4",
+      "name": "TİVİBU SPOR 4",
+      "category": "Tivibu Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/turuncu_4.png",
+      "aliases": [
+        "tivibu[\\s_-]*spor(t|ts)?[\\s_-]*4",
+        "tivibuspor4",
+        "tivibu_spor_4",
+        "turuncu[\\s_-]*spor[\\s_-]*4"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "spor-smart-1",
+      "name": "SPOR SMART 1",
+      "category": "Spor Smart",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yildiz_smart_1.png",
+      "aliases": [
+        "smart[\\s_-]*spor(t|ts)?(?!.*2)",
+        "spor[\\s_-]*smart(?!.*2)",
+        "smarts"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "spor-smart-2",
+      "name": "SPOR SMART 2",
+      "category": "Spor Smart",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yildiz_smart_2.png",
+      "aliases": [
+        "spor[\\s_-]*smart[\\s_-]*2",
+        "smart[\\s_-]*spor(t|ts)?[\\s_-]*2",
+        "sporsmart2",
+        "smartspor2",
+        "smart_spor_2"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "exxen-spor-1",
+      "name": "EXXEN SPOR 1",
+      "category": "Exxen Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/sari_1.png",
+      "aliases": [
+        "exxen[\\s_-]*spor(t|ts)?[\\s_-]*1",
+        "^exxen([\\s_-]*spor(t|ts)?)?([\\s_-]*hd)?$",
+        "exxenspor1",
+        "exxen_spor(t|ts)?_1",
+        "sari[\\s_-]*spor[\\s_-]*1"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "exxen-spor-2",
+      "name": "EXXEN SPOR 2",
+      "category": "Exxen Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/sari_2.png",
+      "aliases": [
+        "exxen[\\s_-]*spor(t|ts)?[\\s_-]*2",
+        "exxenspor2",
+        "exxen_spor(t|ts)?_2",
+        "sari[\\s_-]*spor[\\s_-]*2"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "exxen-spor-3",
+      "name": "EXXEN SPOR 3",
+      "category": "Exxen Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/sari_3.png",
+      "aliases": [
+        "exxen[\\s_-]*spor(t|ts)?[\\s_-]*3",
+        "exxenspor3",
+        "exxen_spor(t|ts)?_3",
+        "sari[\\s_-]*spor[\\s_-]*3"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "exxen-spor-4",
+      "name": "EXXEN SPOR 4",
+      "category": "Exxen Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/sari_4.png",
+      "aliases": [
+        "exxen[\\s_-]*spor(t|ts)?[\\s_-]*4",
+        "exxenspor4",
+        "exxen_spor(t|ts)?_4",
+        "sari[\\s_-]*spor[\\s_-]*4"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "exxen-spor-5",
+      "name": "EXXEN SPOR 5",
+      "category": "Exxen Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/sari_5.png",
+      "aliases": [
+        "exxen[\\s_-]*spor(t|ts)?[\\s_-]*5",
+        "exxenspor5",
+        "exxen_spor(t|ts)?_5",
+        "sari[\\s_-]*spor[\\s_-]*5"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "exxen-spor-6",
+      "name": "EXXEN SPOR 6",
+      "category": "Exxen Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/sari_6.png",
+      "aliases": [
+        "exxen[\\s_-]*spor(t|ts)?[\\s_-]*6",
+        "exxenspor6",
+        "exxen_spor(t|ts)?_6",
+        "sari[\\s_-]*spor[\\s_-]*6"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tabii-spor",
+      "name": "TABİİ SPOR",
+      "category": "Tabii Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yesil.png",
+      "aliases": [
+        "tabii[\\s_-]*spor(t|ts)?(?!.*\\d)",
+        "tabiispor(?!\\d)"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tabii-spor-1",
+      "name": "TABİİ SPOR 1",
+      "category": "Tabii Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yesil_1.png",
+      "aliases": [
+        "tabii[\\s_-]*spor(t|ts)?[\\s_-]*1",
+        "tabiispor1",
+        "tabii_spor(t|ts)?_1",
+        "yesil[\\s_-]*spor[\\s_-]*1"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tabii-spor-2",
+      "name": "TABİİ SPOR 2",
+      "category": "Tabii Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yesil_2.png",
+      "aliases": [
+        "tabii[\\s_-]*spor(t|ts)?[\\s_-]*2",
+        "tabiispor2",
+        "tabii_spor(t|ts)?_2",
+        "yesil[\\s_-]*spor[\\s_-]*2"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tabii-spor-3",
+      "name": "TABİİ SPOR 3",
+      "category": "Tabii Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yesil_3.png",
+      "aliases": [
+        "tabii[\\s_-]*spor(t|ts)?[\\s_-]*3",
+        "tabiispor3",
+        "tabii_spor(t|ts)?_3",
+        "yesil[\\s_-]*spor[\\s_-]*3"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tabii-spor-4",
+      "name": "TABİİ SPOR 4",
+      "category": "Tabii Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yesil_4.png",
+      "aliases": [
+        "tabii[\\s_-]*spor(t|ts)?[\\s_-]*4",
+        "tabiispor4",
+        "tabii_spor(t|ts)?_4",
+        "yesil[\\s_-]*spor[\\s_-]*4"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tabii-spor-5",
+      "name": "TABİİ SPOR 5",
+      "category": "Tabii Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yesil_5.png",
+      "aliases": [
+        "tabii[\\s_-]*spor(t|ts)?[\\s_-]*5",
+        "tabiispor5",
+        "tabii_spor(t|ts)?_5",
+        "yesil[\\s_-]*spor[\\s_-]*5"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tabii-spor-6",
+      "name": "TABİİ SPOR 6",
+      "category": "Tabii Spor",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yesil_6.png",
+      "aliases": [
+        "tabii[\\s_-]*spor(t|ts)?[\\s_-]*6",
+        "tabiispor6",
+        "tabii_spor(t|ts)?_6",
+        "yesil[\\s_-]*spor[\\s_-]*6"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "trt-spor",
+      "name": "TRT SPOR HD",
+      "category": "Ulusal",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/ulusal_trt_spor.png",
+      "aliases": [
+        "trt[.\\s_-]*spor(?!.*y[ıi]ld[ıi]z)",
+        "trtspor(?!yildiz)",
+        "trt_spor$"
+      ],
+      "defaultStreams": [
+        "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+        "https://trt.daioncdn.net/trt-spor/master.m3u8"
+      ]
+    },
+    {
+      "id": "trt-spor-yildiz",
+      "name": "TRT SPOR YILDIZ HD",
+      "category": "Ulusal",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/ulusal_trt_yildiz.png",
+      "aliases": [
+        "trt[\\s_-]*spor[\\s_-]*y[ıi]ld[ıi]z",
+        "trt[\\s_-]*y[ıi]ld[ıi]z",
+        "trtsporyildiz",
+        "trt_spor_yildiz"
+      ],
+      "defaultStreams": [
+        "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+        "https://trt.daioncdn.net/trt-spor-yildiz/master.m3u8"
+      ]
+    },
+    {
+      "id": "a-spor",
+      "name": "A SPOR HD",
+      "category": "Ulusal",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/ulusal_aspor.png",
+      "aliases": [
+        "a[.\\s_-]*spor",
+        "aspor",
+        "aspor",
+        "a_spor"
+      ],
+      "defaultStreams": [
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8"
+      ]
+    },
+    {
+      "id": "tv8-5",
+      "name": "TV8.5 HD",
+      "category": "Ulusal",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/ulusal_tv85.png",
+      "aliases": [
+        "tv[\\s_-]*8[.,]5",
+        "tv8[\\s_-]*5",
+        "tv8bucuk",
+        "tv85",
+        "tv8_5"
+      ],
+      "defaultStreams": [
+        "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web",
+        "https://tv8bu-live.ercdn.net/tv8bu/tv8bu.m3u8"
+      ]
+    },
+    {
+      "id": "ht-spor",
+      "name": "HT SPOR HD",
+      "category": "Ulusal",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/ulusal_htspor.png",
+      "aliases": [
+        "ht[\\s_-]*spor(t|ts)?",
+        "htspor"
+      ],
+      "defaultStreams": [
+        "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web"
+      ]
+    },
+    {
+      "id": "eurosport-1",
+      "name": "EUROSPORT 1 TR",
+      "category": "Kulüp & Diğer",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yildiz_euro_1.png",
+      "aliases": [
+        "eurosport[\\s_-]*1",
+        "eurosport1",
+        "eurosport_1"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "eurosport-2",
+      "name": "EUROSPORT 2 TR",
+      "category": "Kulüp & Diğer",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/yildiz_euro_2.png",
+      "aliases": [
+        "eurosport[\\s_-]*2",
+        "eurosport2",
+        "eurosport_2"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "fb-tv",
+      "name": "FENERBAHÇE TV",
+      "category": "Kulüp & Diğer",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/ulusal_fbtv.png",
+      "aliases": [
+        "fb[\\s_-]*tv",
+        "fenerbah[cç]e"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "gs-tv",
+      "name": "GALATASARAY TV",
+      "category": "Kulüp & Diğer",
+      "logo": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSpor@main/assets/banners/ulusal_gstv.png",
+      "aliases": [
+        "gs[\\s_-]*tv",
+        "galatasaray"
+      ],
+      "defaultStreams": []
+    }
+  ]
+}
